@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with jayant.yes changing. checking again. yesss
+          Learn React with jayant.yes changing. checking again. yessss
         </a>
       </header>
     </div>
